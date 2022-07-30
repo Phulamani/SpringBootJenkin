@@ -11,4 +11,8 @@ public class SpringBootJenkinApplication {
 		
 		System.out.println("Welcome to Spring boot project");
 	}
+	
+	public void test(String str) {
+		System.out.println("Hello world ");
+	}
 }
